@@ -1,0 +1,16 @@
+{
+  "0000": "Service Not Available Or Down Temporary",
+  "3d8169d8-40934b78-b9c6c253e03d9620": " Message sent successfully",
+  "0005": "Invalid server",
+  "0010": "Username not provided",
+  "0011": "Password not provided",
+  "00"  : "Invalid username/password",
+  "0020": "Insufficient Credits ",
+  "0030": "Invalid Sender ID ",
+  "0040": "Mobile number not provided",
+  "0041": "Invalid mobile number",
+  "0042": "Network not supported",
+  "0050": "Invalid message",
+  "0060": "Invalid quantity specified",
+  "0066": "Network not supported"
+}
